@@ -24,6 +24,6 @@ private slots:
 private:
     Ui::Dialog *ui;
 
-    void setStarted(bool value);
+    void setStarted(bool started);
 };
 #endif // DIALOG_H
